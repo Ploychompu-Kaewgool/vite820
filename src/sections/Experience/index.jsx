@@ -10,7 +10,7 @@ const Experience = () => {
             <div className="text-left">
                 <span className="text-sm">2024-2025</span>
                 <div>
-                    <img src={picEXP} className="w-5/6 rounded-md"/>
+                    <img src={picEXP} className="w-5/6 rounded-md border-2"/>
                 </div>
             </div>
             <div className="flex flex-col gap-y-4">
